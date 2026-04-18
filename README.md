@@ -1,4 +1,4 @@
-![Data Gourmet Banner](banner-gourmet.png.jpeg)
+![Data Gourmet Banner](banner-gourmet.png)
 ## 📚 Índice de Recetas
 * **[Parchita Gourmet](./Proyecto_Marquesa_Gourmet.ipynb):** La receta original con 500g de pulpa.
 * **[Mousse de Chocolate](./Proyecto_Marquesa_Chocolate.ipynb):** Versión cremosa con plantillas Le Biscuit.
